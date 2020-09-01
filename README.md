@@ -1,2 +1,4 @@
-# Trabalhos-da-faculdade
-Alguns projetos feitos em meu período de faculdade.
+  # Controle de veículos.
+Projeto feito em C#, com a ideia de manipular dados específicos de uma "concessionária".
+Efetuando conexão com banco de dados (SQL) e Windows Form(C#).
+Meu primeiro mini-projeto feito em C#.
